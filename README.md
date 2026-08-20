@@ -72,7 +72,7 @@ Durante a execução do fluxo de checkout, a aplicação apresentou uma tela bra
 - **Caso relacionado:** CT-014
 - **Caso bloqueado em consequência:** CT-015
 
-O defeito foi documentado no [BUG Report](./documentos/07-BUG%20Report%20-%20SauceDemo.pdf).
+O defeito foi documentado no [Relatório de erro](./documentos/07-BUG-Report-SauceDemo.pdf)
 
 Como o defeito impede a conclusão do fluxo principal de compra, a recomendação final foi **não liberar a aplicação para produção até que o problema seja corrigido e validado por novos testes**.
 
